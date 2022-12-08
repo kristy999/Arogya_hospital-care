@@ -1,5 +1,5 @@
 # Arogya_hospital-care
-This is a web developing project for a hospital to make their workeasy
+This is a web developing project for a hospital to make their work easy
 Login page
 <?php
 session_
